@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Aarya Shah 👋
 
-<!--
-**shahaarya465/shahaarya465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Third Year BTech Student (AI & ML)**  
+🔎 **Exploring Data Science & Machine Learning**  
+💡 **Curious. Analytical. Always Learning.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- Currently pursuing my BTech in Artificial Intelligence and Machine Learning.
+- Passionate about data science, machine learning, and building things that solve real-world problems.
+- Always eager to learn new technologies, participate in hackathons, and collaborate on innovative projects.
+
+---
+
+## 🚀 Skills & Interests
+
+- **Languages:** Python, C/C++, Java
+- **ML & DS:** scikit-learn, pandas, NumPy, matplotlib, TensorFlow (beginner)
+- **Other:** SQL, Git/GitHub, Jupyter Notebooks
+- **Interests:** Data Science, Machine Learning, Deep Learning
+
+---
+
+## 🌱 What I’m Currently Working On
+
+- Developing hands-on ML projects to strengthen my fundamentals.
+- Exploring deep learning, neural networks, and NLP.
+- Participating in coding contests and contributing to open-source repositories.
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/aarya-shah-146398283)
+- [Instagram](https://www.instagram.com/aaryashah0406/)
+
+---
+
+## ✨ Fun Fact
+
+I believe in learning by doing—every bug is a lesson, and every dataset tells a story!
+
+---
+
+![Aarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahaarya465&show_icons=true&theme=radical)
