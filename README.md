@@ -44,6 +44,6 @@ I believe in learning by doing—every bug is a lesson, and every dataset tells 
 
 ---
 
-![Aarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahaarya465&show_icons=true&theme=radical)
+![Aarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahaarya465&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahaarya465&hide_progress=true&theme=tokyonight)
